@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417386917753",
+    "project_id": "fastrack-jobseeker",
+    "storage_bucket": "fastrack-jobseeker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417386917753:android:777d8ab79bfad7f8b689a8",
+        "android_client_info": {
+          "package_name": "com.example.jobseeker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417386917753-7ie855fcev3tdsd1m4c5g5mfrerjb9c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjE8DPLrKpB5543ZNwp6TtW_0GszFcxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417386917753-7ie855fcev3tdsd1m4c5g5mfrerjb9c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
